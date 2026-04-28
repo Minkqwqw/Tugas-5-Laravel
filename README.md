@@ -12,7 +12,7 @@ Tugas ini merupakan pengembangan dari API sebelumnya, dengan mengimplementasikan
 ## 🛠️ Tech Stack
 - **Framework:** Laravel 13
 - **Database:** MySQL
-- **Tools:** Postman (API Testing)
+- **Tools:** Posting (API Testing)
 
 ## 📂 Struktur Controller
 - `app/Http/Controllers/Api/GenreController.php`
